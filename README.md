@@ -25,7 +25,7 @@ The final output is a bar chart showing the number of movies by genre from a beg
 
 Feel free to clone, adapt, or contribute! I am open to criticism.
 
-### Output Preview
+### 🎨 Output Preview
 ### View the project on GitHub:
 # [movie-sql-python-visualization/sql_to_python.py]  - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/sql_to_python.py)
 # [movie-sql-python-visualization/movies_portfolio.sqlite] - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/movies_portfolio.sqlite)
