@@ -27,6 +27,6 @@ Feel free to clone, adapt, or contribute! I am open to criticism.
 
 ### Output Preview
 ### View the project on GitHub:
-[movie-sql-python-visualization/sql_to_python.py] (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/sql_to_python.py)
-[movie-sql-python-visualization/movies_portfolio.sqlite] (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/movies_portfolio.sqlite)
-[movie-sql-python-visualization/SQL to Python.png] (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/SQL%20to%20Python.png)
+[movie-sql-python-visualization/sql_to_python.py]  - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/sql_to_python.py)
+[movie-sql-python-visualization/movies_portfolio.sqlite] - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/movies_portfolio.sqlite)
+[movie-sql-python-visualization/SQL to Python.png] - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/SQL%20to%20Python.png)
