@@ -27,6 +27,7 @@ This is the first project in progressoin. I'll later expand into:
 
 "Continue to thrive and grow. Every journey begins with a single step."
 
+
 ## 🎬 movie-sql-exploration
 This beginner-friendly SQL project explores a curated movie dataset using SQLite. It includes queries for:
 
@@ -49,6 +50,8 @@ Table/column naming issues and fixes
 Querying techniques
 🧁 Next Step
 We're taking this data into Python soon using sqlite3, pandas, and matplotlib for analysis and visualization.
+
+
 
 ## Movie Genre Analysis with SQL & Python 🎬📊
 
