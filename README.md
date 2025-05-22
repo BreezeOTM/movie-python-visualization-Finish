@@ -35,20 +35,20 @@ Counting total movies
 Grouping by genre and director
 Filtering by year
 Listing unique genres
-📦 Files Included
+# 📦 Files Included
 movies_portfolio.sqlite – SQLite database
 queries.sql – Favorite queries from DB Browser
 README.md
-🛠️ Tech Used
+# 🛠️ Tech Used
 SQLite via DB Browser
 SQL (SELECT, COUNT, DISTINCT, GROUP BY, ORDER BY)
-🧠 Learnings
+# 🧠 Learnings
 This project helped reinforce:
 
-How to import CSVs into SQL
+# How to import CSVs into SQL
 Table/column naming issues and fixes
 Querying techniques
-🧁 Next Step
+# 🧁 Next Step
 We're taking this data into Python soon using sqlite3, pandas, and matplotlib for analysis and visualization.
 
 
