@@ -28,7 +28,7 @@ This is the first project in progressoin. I'll later expand into:
 "Continue to thrive and grow. Every journey begins with a single step."
 
 
-## 🎬 movie-sql-exploration
+## 🎬 movie-SQL
 This beginner-friendly SQL project explores a curated movie dataset using SQLite. It includes queries for:
 
 Counting total movies
@@ -53,7 +53,7 @@ We're taking this data into Python soon using sqlite3, pandas, and matplotlib fo
 
 
 
-## Movie Genre Analysis with SQL & Python 🎬📊
+## Movie Genre Analysis Python 🎬📊
 
 This project demonstrates how to visualize a simple movie dataset by:
 - Importing CSV data into a SQLite database
