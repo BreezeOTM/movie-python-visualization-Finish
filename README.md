@@ -80,6 +80,8 @@ This is the *first step* in a growing portfolio. Future improvements include:
 
 ## 🤝 Open to Feedback
 
+Clone it, fork it, critique it — I welcome all feedback and collaboration!  
+
 This project is meant to show my **growth**, **curiosity**, and **technical momentum**.
 
 [View the project on GitHub →](https://github.com/BreezeOTM/movie-sql-python-visualization)
@@ -89,11 +91,3 @@ This project is meant to show my **growth**, **curiosity**, and **technical mome
 *Built by BreezeOTM with love, coffee, and just enough frustration to keep it spicy.* ☕🔥
 
 ---
-
-Clone it, fork it, critique it — I welcome all feedback and collaboration!  
-
-# 🎨 Output Preview
-# View the project on GitHub:
-# [movie-sql-python-visualization/sql_to_python.py]  - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/sql_to_python.py)
-# [movie-sql-python-visualization/movies_portfolio.sqlite] - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/movies_portfolio.sqlite)
-# [movie-sql-python-visualization/SQL to Python.png] - (https://github.com/BreezeOTM/movie-sql-python-visualization/blob/main/SQL%20to%20Python.png)
